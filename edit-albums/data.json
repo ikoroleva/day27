@@ -1,0 +1,47 @@
+{
+    "1": {
+        "title": "White album",
+        "cover_image": "image1",
+        "author": "John Lenon",
+        "tracks": [],
+        "year_of_release": "1967",
+        "year": null,
+        "id": "1"
+    },
+    "2": {
+        "title": "Baby",
+        "cover_image": "image2",
+        "author": "Jastin Bieber",
+        "tracks": [],
+        "year_of_release": "2012",
+        "year": null,
+        "id": 2
+    },
+    "3": {
+        "title": "New album1",
+        "cover_image": "image3",
+        "author": "Author 1",
+        "tracks": [],
+        "year_of_release": "2020",
+        "year": null,
+        "id": "3"
+    },
+    "4": {
+        "title": "Title4",
+        "cover_image": "image4",
+        "author": "Author4",
+        "tracks": [],
+        "year_of_release": "2020",
+        "year": null,
+        "id": "4"
+    },
+    "5": {
+        "title": "Tittle 5",
+        "cover_image": "",
+        "author": "John Lenon",
+        "tracks": [],
+        "year_of_release": "2019",
+        "year": null,
+        "id": "5"
+    }
+}
